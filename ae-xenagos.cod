@@ -4,6 +4,8 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Aim High"/>
+        <card number="1" name="Alena, Kessig Trapper"/>
+        <card number="1" name="Benefactor's Draught"/>
         <card number="1" name="Berserk"/>
         <card number="1" name="Blazing Shoal"/>
         <card number="1" name="Chandra's Ignition"/>
@@ -14,14 +16,13 @@
         <card number="1" name="Coveted Jewel"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Disrupt Decorum"/>
-        <card number="1" name="Drumhunter"/>
+        <card number="1" name="Dreadhorde Arcanist"/>
         <card number="1" name="Eldrazi Conscription"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Fists of Flame"/>
         <card number="11" name="Forest"/>
         <card number="1" name="Fungal Sprouting"/>
         <card number="1" name="Garruk's Uprising"/>
-        <card number="1" name="Ghalta, Primal Hunger"/>
         <card number="1" name="Giant Adephage"/>
         <card number="1" name="Gift of Growth"/>
         <card number="1" name="Gilded Lotus"/>
@@ -53,7 +54,6 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Neheb, the Eternal"/>
         <card number="1" name="Nessian Boar"/>
-        <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Phyrexian Soulgorger"/>
         <card number="1" name="Priest of Titania"/>
         <card number="1" name="Ravaging Riftwurm"/>
@@ -82,7 +82,6 @@
         <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Viridian Joiner"/>
         <card number="1" name="Wirewood Lodge"/>
-        <card number="1" name="Zada, Hedron Grinder"/>
     </zone>
     <zone name="side">
         <card number="1" name="Xenagos, God of Revels"/>
