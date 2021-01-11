@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Act of Authority"/>
+        <card number="1" name="Aethermage's Touch"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Azor's Elocutors"/>
+        <card number="1" name="Azor, the Lawbringer"/>
+        <card number="1" name="Azorius Arrester"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Azorius Justiciar"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Captain of the Watch"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Cauldron of Souls"/>
+        <card number="1" name="Chancellor of the Spires"/>
+        <card number="1" name="Cloud Cover"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="1" name="Cloudform"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Coveted Jewel"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Decree of Silence"/>
+        <card number="1" name="Detention Sphere"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Elite Guardmage"/>
+        <card number="1" name="Emancipation Angel"/>
+        <card number="1" name="Ephara, God of the Polis"/>
+        <card number="1" name="Essence Flux"/>
+        <card number="1" name="Evangel of Heliod"/>
+        <card number="1" name="Felidar Guardian"/>
+        <card number="1" name="Flickerwisp"/>
+        <card number="1" name="Flood Plain"/>
+        <card number="1" name="Galepowder Mage"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Glimmerpoint Stag"/>
+        <card number="1" name="Healer of the Pride"/>
+        <card number="16" name="Island"/>
+        <card number="1" name="Ixidron"/>
+        <card number="1" name="Lavinia of the Tenth"/>
+        <card number="1" name="Lightform"/>
+        <card number="1" name="Luminate Primordial"/>
+        <card number="1" name="Lyev Skyknight"/>
+        <card number="1" name="Man-o'-War"/>
+        <card number="1" name="Mistmeadow Witch"/>
+        <card number="1" name="Momentary Blink"/>
+        <card number="1" name="Nevermaker"/>
+        <card number="1" name="Omen of the Sea"/>
+        <card number="16" name="Plains"/>
+        <card number="1" name="Rally the Ancestors"/>
+        <card number="1" name="Reality Acid"/>
+        <card number="1" name="Reflector Mage"/>
+        <card number="1" name="Restoration Angel"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sejiri Refuge"/>
+        <card number="1" name="Sentinel of the Pearl Trident"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soulherder"/>
+        <card number="1" name="Sphinx of Uthuun"/>
+        <card number="1" name="Stonehorn Dignitary"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Sunblast Angel"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Time Wipe"/>
+        <card number="1" name="Vedalken Mastermind"/>
+        <card number="1" name="Venser, the Sojourner"/>
+        <card number="1" name="War Priest of Thune"/>
+        <card number="1" name="Wing Splicer"/>
+        <card number="1" name="Wispweaver Angel"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Yorion, Sky Nomad"/>
+    </zone>
+</cockatrice_deck>

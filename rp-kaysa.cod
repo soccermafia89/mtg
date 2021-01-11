@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ambush Commander"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Argothian Elder"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Chameleon Colossus"/>
+        <card number="1" name="Creeping Renaissance"/>
+        <card number="1" name="Cultivator of Blades"/>
+        <card number="1" name="Devoted Druid"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Dragon Throne of Tarkir"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Elvish Guidance"/>
+        <card number="1" name="Elvish Promenade"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="28" name="Forest"/>
+        <card number="1" name="Fyndhorn Elder"/>
+        <card number="1" name="Gelatinous Genesis"/>
+        <card number="1" name="Greenweaver Druid"/>
+        <card number="1" name="Grim Flowering"/>
+        <card number="1" name="Gyre Sage"/>
+        <card number="1" name="Heritage Druid"/>
+        <card number="1" name="Hydra Broodmaster"/>
+        <card number="1" name="Immaculate Magistrate"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Jagged-Scar Archers"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Joraga Warcaller"/>
+        <card number="1" name="Karametra's Acolyte"/>
+        <card number="1" name="Lifeblood Hydra"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="1" name="Lys Alana Huntmaster"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Nath's Elite"/>
+        <card number="1" name="Nissa Revane"/>
+        <card number="1" name="Nullmage Shepherd"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Overrun"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Predator, Flagship"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Quirion Ranger"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Riptide Replicator"/>
+        <card number="1" name="Seeker of Skybreak"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Slate of Ancestry"/>
+        <card number="1" name="Slippery Karst"/>
+        <card number="1" name="Soul of New Phyrexia"/>
+        <card number="1" name="Strength of the Tajuru"/>
+        <card number="1" name="Sylvan Offering"/>
+        <card number="1" name="Sylvan Ranger"/>
+        <card number="1" name="Taunting Elf"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Tribal Forcemage"/>
+        <card number="1" name="Tribal Unity"/>
+        <card number="1" name="Viridian Joiner"/>
+        <card number="1" name="Wildborn Preserver"/>
+        <card number="1" name="Wirewood Channeler"/>
+        <card number="1" name="Wirewood Lodge"/>
+        <card number="1" name="Wirewood Symbiote"/>
+        <card number="1" name="Wolfbriar Elemental"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Beastmaster Ascension"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kaysa"/>
+    </zone>
+</cockatrice_deck>

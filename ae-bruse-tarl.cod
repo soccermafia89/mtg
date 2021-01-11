@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bruse Tarl, Boorish Herder"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Phyrexian Rebirth"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sculpting Steel"/>
+        <card number="1" name="Day of Judgment"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Dragon Throne of Tarkir"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Myojin of Cleansing Fire"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Stonehoof Chieftain"/>
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+        <card number="1" name="Godsend"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="1" name="Impervious Greatwurm"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Sword of Kaldra"/>
+        <card number="1" name="Gisela, Blade of Goldnight"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Rout"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Mage Slayer"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Lifeblood Hydra"/>
+        <card number="1" name="Hour of Revelation"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Tajic, Blade of the Legion"/>
+        <card number="1" name="Transcendent Master"/>
+        <card number="1" name="Masterwork of Ingenuity"/>
+        <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Stonehewer Giant"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Aurelia, the Warleader"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Eldrazi Conscription"/>
+        <card number="1" name="Behemoth Sledge"/>
+        <card number="1" name="Inquisitor's Flail"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Xenagos, God of Revels"/>
+        <card number="1" name="Sigil of Distinction"/>
+        <card number="1" name="Fleecemane Lion"/>
+        <card number="1" name="Bonehoard"/>
+        <card number="1" name="Argentum Armor"/>
+        <card number="1" name="Indomitable Creativity"/>
+        <card number="1" name="Grappling Hook"/>
+        <card number="1" name="Strata Scythe"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Fated Retribution"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Overgrowth"/>
+        <card number="7" name="Plains"/>
+        <card number="4" name="Mountain"/>
+        <card number="10" name="Forest"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bruse Tarl, Boorish Herder"/>
+        <card number="1" name="Tana, the Bloodsower"/>
+    </zone>
+</cockatrice_deck>
