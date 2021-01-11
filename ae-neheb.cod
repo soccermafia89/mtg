@@ -3,6 +3,7 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" name="Apex of Power"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Assault Strobe"/>
         <card number="1" name="Avatar of Slaughter"/>
@@ -43,14 +44,12 @@
         <card number="1" name="Nykthos, Shrine to Nyx"/>
         <card number="1" name="Panic Attack"/>
         <card number="1" name="Past in Flames"/>
-        <card number="1" name="Pyromancer's Goggles"/>
         <card number="1" name="Reckless Charge"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Renegade Tactics"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Ruby Medallion"/>
         <card number="1" name="Runehorn Hellkite"/>
-        <card number="1" name="Rush of Blood"/>
         <card number="1" name="Savage Beating"/>
         <card number="1" name="Screaming Fury"/>
         <card number="1" name="Seize the Day"/>
@@ -70,6 +69,7 @@
         <card number="1" name="Thundermaw Hellkite"/>
         <card number="1" name="Tome of Legends"/>
         <card number="1" name="Tyrant's Familiar"/>
+        <card number="1" name="Unleash Fury"/>
         <card number="1" name="Utvara Hellkite"/>
         <card number="1" name="Warmonger Hellkite"/>
         <card number="1" name="Whispersilk Cloak"/>
